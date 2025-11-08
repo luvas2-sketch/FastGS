@@ -1,5 +1,5 @@
 <div align="center">
-<h1>FastGS: Training 3D Gaussian Splatting in 100 Seconds⚡⚡⚡</h1> 
+<h1>FastGS: Training 3D Gaussian Splatting in 100 Seconds</h1> 
 
 <div align="center">
 
